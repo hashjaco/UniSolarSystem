@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/SolarSystem.unity
+    guid: 225cf68106571474fae3b7ea3e14a886
+  - enabled: 1
+    path: Assets/Scenes/EarthAndMoon.unity
+    guid: ad86b6bfba6a3894284a12d89c2ec99a
   m_configObjects: {}
