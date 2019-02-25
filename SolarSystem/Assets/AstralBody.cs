@@ -6,6 +6,7 @@ public class AstralBody : MonoBehaviour{
 
     public Vector3 rotatationSpeed;
     public Transform bodyTransform;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -15,9 +16,10 @@ public class AstralBody : MonoBehaviour{
     // Update is called once per frame
     void Update()
     {
-        rotate();
+        Rotate();
     }
-    public void rotate()
+
+    public void Rotate()
     {
         bodyTransform.Rotate(rotatationSpeed*Time.deltaTime);
     }

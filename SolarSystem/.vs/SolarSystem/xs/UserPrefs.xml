@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DB7062D2-755C-EF7A-B5EC-D8E8C8F3F01B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Target.cs">
+    <Files>
+      <File FileName="Assets/Planet.cs" Line="12" Column="6" />
+      <File FileName="Assets/AstralBody.cs" Line="22" Column="12" />
+      <File FileName="Assets/Missile Launcher/Info.txt" Line="1" Column="1" />
+      <File FileName="Assets/MissileLauncher.cs" Line="36" Column="43" />
+      <File FileName="Assets/Target.cs" Line="14" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
